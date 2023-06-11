@@ -1,4 +1,4 @@
-<h3> 🌼 Oi, Meu nome é Beatriz Silva, sou estudante de Desenvolvimento de Sistemas nível júnior </h3>
+<h3> 🌼 Oi, Meu nome é Beatriz Silva </h3>
 
 <ul> 
   <li>Tenho 20 anos e sou estudante de Desenvolvimento de Sistemas nível júnior</li>
@@ -12,7 +12,12 @@
 </div>
   </li>
   </ul>
-    
+    <h3> 🌼 Hi, My name is Beatriz Silva, and my English is basic, forgive me if I have any mistakes </h3>
+    <ul>
+  <li>I'm 20 years old and I'm a Junior Systems Development student</li>
+  <li>I'm studying the second semester of Systems Analysis and Development, and some complementary courses outside.</li>
+  <li> So far I have ventured through | HTML | css | PYTHON | JAVASCRIPT |  </li>
+  </ul>
 <br>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizSAA&show_icons=true&theme=transparent)
